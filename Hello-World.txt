@@ -1,2 +1,2 @@
-Printf("Hello World!!!");
-Printf("Another hello");
+Printf("Hello World!!!;");
+Printf("Another hello;");
